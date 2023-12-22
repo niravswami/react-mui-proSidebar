@@ -1,3 +1,4 @@
+![Screen shot](https://github.com/niravswami/react-mui-proSidebar/blob/main/src/assets/Screenshot%202023-12-22%20at%2012.27.04%E2%80%AFPM.png)
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
